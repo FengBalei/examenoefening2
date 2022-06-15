@@ -1,6 +1,5 @@
 header{
     font-family: 'Courier New', Courier, monospace;
-    color: blueviolet;
 }
 p{
     font-weight: 400;
@@ -13,5 +12,10 @@ body{
 
 nav{
     background-color: chartreuse;
+}
+
+h1, h2{
+    font-size: large;
+    color: blueviolet;
 }
 
